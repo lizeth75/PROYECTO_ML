@@ -1,4 +1,4 @@
-# Clasificación de la ansiedad en la generación Z
+# Variables que afectan a la generación Z
 
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/4ffffdf3-4aa4-4282-ad88-adf2f233e2ef" />
 
@@ -7,7 +7,7 @@
 Paula Lizeth Ardila Pinzon 
 
 # Objetivo 
-A de la generacion Z mediante caracteristicas fisicas, comportaminetos y sentimientos en mujeres y hombres rondando edades de 18 años a 26 años.
+Análisis de la generacion Z mediante caracteristicas fisicas, comportaminetos y sentimientos en mujeres y hombres rondando edades de 18 años a 26 años.
 
 # Dataset utilizado 
 **Gen Z Mental Wellness & Digital Lifestyle Patterns**
