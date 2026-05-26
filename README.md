@@ -7,7 +7,7 @@
 Paula Lizeth Ardila Pinzon 
 
 # Objetivo 
-Clasificacion de la generacion Z mediante caracteristicas fisicas, comportaminetos y sentimientos en mujeres y hombres rondando edades de 18 años a 26 años.
+A de la generacion Z mediante caracteristicas fisicas, comportaminetos y sentimientos en mujeres y hombres rondando edades de 18 años a 26 años.
 
 # Dataset utilizado 
 **Gen Z Mental Wellness & Digital Lifestyle Patterns**
