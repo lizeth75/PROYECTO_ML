@@ -11,7 +11,7 @@ A de la generacion Z mediante caracteristicas fisicas, comportaminetos y sentimi
 
 # Dataset utilizado 
 **Gen Z Mental Wellness & Digital Lifestyle Patterns**
-El dataset utilizado contiene 798 registros de jóvenes de la Generación Z (de 18 a 26 años) y combina **22 variables* que abarcan hábitos digitales (horas de pantalla, redes sociales, gaming), rutinas de salud (sueño, ejercicio, cafeína), estados emocionales (ansiedad, fatiga, estabilidad del ánimo) y el nivel de riesgo de burnout como variable objetivo. Lo más distintivo es que no presenta valores nulos ni duplicados.
+El dataset utilizado contiene 798 registros de jóvenes de la Generación Z (de 18 a 26 años) y combina 22 variables que abarcan hábitos digitales (horas de pantalla, redes sociales, gaming), rutinas de salud (sueño, ejercicio, cafeína), estados emocionales (ansiedad, fatiga, estabilidad del ánimo) y el nivel de riesgo de burnout como variable objetivo. Lo más distintivo es que no presenta valores nulos ni duplicados.
 
 El dataset se encuentra disonible en [Kaggle](https://www.kaggle.com/datasets/hammadansari7/gen-z-mental-wellness-and-digital-lifestyle-patterns)
 
