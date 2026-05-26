@@ -17,5 +17,4 @@ El dataset se encuentra disonible en [Kaggle](https://www.kaggle.com/datasets/ha
 
 # Trabajos 
 - Video : https://youtu.be/bxwLWni4a1U?si=Vc8J4KZ1AtORwCH7  
-- Notebook :
 - Presentación : https://canva.link/gfbteu9sdfatob5
