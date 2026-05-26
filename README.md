@@ -1,6 +1,6 @@
 # Clasificación de la ansiedad en la generación Z
 
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/2eff6b68-7255-4256-b05f-562bb80e31bd" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/4ffffdf3-4aa4-4282-ad88-adf2f233e2ef" />
 
 
 # Autora
