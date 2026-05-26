@@ -1,6 +1,7 @@
 # Clasificación de la ansiedad en la generación Z
 
-<img width="1280" height="719" alt="WhatsApp Image 2026-05-25 at 10 55 15 AM" src="https://github.com/user-attachments/assets/ccb3c3ab-705d-4475-a89e-b9b568149639" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/2eff6b68-7255-4256-b05f-562bb80e31bd" />
+
 
 # Autora
 Paula Lizeth Ardila Pinzon 
